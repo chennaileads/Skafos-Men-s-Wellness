@@ -1321,8 +1321,8 @@ header.main-header .header-sticky.active{
 
 .service-item .icon-box{
 	background-color: var(--secondary-color);
-	height: 52px;
-	width: 52px;
+	height: 100px;
+	width: 100px;
 	border-radius: 10px;
 	display: flex;
 	align-items: center;
@@ -1352,7 +1352,7 @@ header.main-header .header-sticky.active{
 .service-item .icon-box img{
 	position: relative;
 	z-index: 1;
-	max-width: 30px;
+	max-width: 100px;
 }
 
 .service-item .service-body{
